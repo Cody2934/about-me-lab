@@ -1,0 +1,26 @@
+img { 
+    width: 25%;
+    height: 25%;
+}
+
+h2 {
+    font-family: 'Oswald', sans-serif;
+}
+
+header {
+    font-family: 'Roboto Mono', monospace;
+    font-size: larger;
+    font-variant-caps: small-caps;
+}
+
+body {
+    background: #878690;
+}
+
+#power {
+    font-size: x-large;
+}
+
+footer {
+    font-size: x-small;
+}
