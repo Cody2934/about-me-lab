@@ -1,6 +1,5 @@
 img { 
-    width: 25%;
-    height: 25%;
+    width: 20%;
 }
 
 h2 {
@@ -13,10 +12,6 @@ header {
     font-variant-caps: small-caps;
 }
 
-body {
-    background: #878690;
-}
-
 #power {
     font-size: x-large;
 }
@@ -24,3 +19,18 @@ body {
 footer {
     font-size: x-small;
 }
+
+#careers {
+    height: 155px;
+    width: 325px;
+}
+
+#accomplish {
+    height: 155px;
+    width: 325px;
+}
+
+#quizbutton{
+    color: rgb(255, 222, 215); font-size: 11px; line-height: 11px; padding: 7px; border-radius: 14px; font-family: Georgia, serif; font-weight: normal; text-decoration: none; font-style: normal; font-variant: normal; text-transform: none; background-image: linear-gradient(to right, rgb(28, 110, 164) 0%, rgb(35, 136, 203) 50%, rgb(20, 78, 117) 100%); box-shadow: rgb(0, 0, 0) 5px 5px 15px 5px; border: 2px solid rgb(28, 110, 164); display: inline-block;}
+}
+
